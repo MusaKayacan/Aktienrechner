@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aktienkurs Rechner</string>
+
+
+    <string-array name="time_array">
+        <item>Tag/e</item>
+        <item>Woche/n</item>
+        <item>Monat/e</item>
+    </string-array>
+</resources>
